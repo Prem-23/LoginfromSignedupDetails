@@ -1,0 +1,13 @@
+C:\Users\premk\source\repos\LoginProcess\LoginProcess\obj\Debug\netcoreapp3.1\LoginProcess.csproj.AssemblyReference.cache
+C:\Users\premk\source\repos\LoginProcess\LoginProcess\obj\Debug\netcoreapp3.1\LoginProcess.AssemblyInfoInputs.cache
+C:\Users\premk\source\repos\LoginProcess\LoginProcess\obj\Debug\netcoreapp3.1\LoginProcess.AssemblyInfo.cs
+C:\Users\premk\source\repos\LoginProcess\LoginProcess\obj\Debug\netcoreapp3.1\LoginProcess.csproj.CoreCompileInputs.cache
+C:\Users\premk\source\repos\LoginProcess\LoginProcess\bin\Debug\netcoreapp3.1\LoginProcess.exe
+C:\Users\premk\source\repos\LoginProcess\LoginProcess\bin\Debug\netcoreapp3.1\LoginProcess.deps.json
+C:\Users\premk\source\repos\LoginProcess\LoginProcess\bin\Debug\netcoreapp3.1\LoginProcess.runtimeconfig.json
+C:\Users\premk\source\repos\LoginProcess\LoginProcess\bin\Debug\netcoreapp3.1\LoginProcess.runtimeconfig.dev.json
+C:\Users\premk\source\repos\LoginProcess\LoginProcess\bin\Debug\netcoreapp3.1\LoginProcess.dll
+C:\Users\premk\source\repos\LoginProcess\LoginProcess\bin\Debug\netcoreapp3.1\LoginProcess.pdb
+C:\Users\premk\source\repos\LoginProcess\LoginProcess\obj\Debug\netcoreapp3.1\LoginProcess.dll
+C:\Users\premk\source\repos\LoginProcess\LoginProcess\obj\Debug\netcoreapp3.1\LoginProcess.pdb
+C:\Users\premk\source\repos\LoginProcess\LoginProcess\obj\Debug\netcoreapp3.1\LoginProcess.genruntimeconfig.cache

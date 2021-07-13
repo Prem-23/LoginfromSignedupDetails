@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\premk\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\premk\\.nuget\\packages"
+    ]
+  }
+}
